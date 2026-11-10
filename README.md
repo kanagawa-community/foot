@@ -34,24 +34,21 @@
 
 ## Previews
 
-The images are rendered from the palette's terminal colors, the same values
-that this theme sets.
-
-![Terminal windows with Kanagawa Lotus, Dragon and Wave](assets/showcase.png)
+![foot windows with Kanagawa Lotus, Dragon and Wave](assets/showcase.png)
 
 <details>
 <summary>🌊 Wave</summary>
-<img src="assets/screenshots/wave.png" alt="Screenshot of a terminal using Kanagawa Wave">
+<img src="assets/screenshots/wave.png" alt="Screenshot of foot using Kanagawa Wave">
 </details>
 
 <details>
 <summary>🐉 Dragon</summary>
-<img src="assets/screenshots/dragon.png" alt="Screenshot of a terminal using Kanagawa Dragon">
+<img src="assets/screenshots/dragon.png" alt="Screenshot of foot using Kanagawa Dragon">
 </details>
 
 <details>
 <summary>🪷 Lotus</summary>
-<img src="assets/screenshots/lotus.png" alt="Screenshot of a terminal using Kanagawa Lotus">
+<img src="assets/screenshots/lotus.png" alt="Screenshot of foot using Kanagawa Lotus">
 </details>
 
 ## Requirements
